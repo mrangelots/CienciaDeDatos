@@ -200,16 +200,16 @@ En el deporte, el Big Data se utiliza para analizar el rendimiento de los atleta
 ## 2. Actividades Prácticas
 
 ### Actividad 1.1: [Conceptos Fundamentales]
-**Entregable:** [Actividad1-1.md](Actividades/Actividad1.1/Actividad1-1.md)
+**Entregable:** [Actividad1-1.md](../Actividades/Actividad1.1/Actividad1-1.md)
 
 ### Actividad 1.2: [Casos de Uso]
-**Entregable:** [Actividad1-2.md](Actividades/Actividad1.2/Actividad1-2.md)
+**Entregable:** [Actividad1-2.md](../Actividades/Actividad1.2/Actividad1-2.md)
 
 ### Actividad 1.3: [Entorno de Trabajo]
-**Entregable:** [Actividad1-3.md](Actividades/Actividad1.3/Actividad1-3.md)
+**Entregable:** [Actividad1-3.md](../Actividades/Actividad1.3/Actividad1-3.md)
 
 ### Actividad 1.4: [Fuentes de Datos]
-**Entregable:** [Actividad1-4.md](Actividades/Actividad1.4/Actividad1-4.md)
+**Entregable:** [Actividad1-4.md](../Actividades/Actividad1.4/Actividad1-4.md)
 
 ## 3. Resumen de Aprendizaje
 
