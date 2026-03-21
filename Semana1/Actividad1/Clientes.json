@@ -1,0 +1,11 @@
+{
+  "_id": "C001",
+  "nombre": "Juan Pérez",
+  "correo": "juanperez@email.com",
+  "telefono": "4421234567",
+  "direccion": {
+    "ciudad": "Querétaro",
+    "estado": "Querétaro"
+  },
+  "historial_compras": ["V001", "V002"]
+}

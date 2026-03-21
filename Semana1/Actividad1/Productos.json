@@ -1,0 +1,9 @@
+{
+  "_id": "P001",
+  "nombre": "Tenis deportivos",
+  "marca": "Nike",
+  "precio": 1499.99,
+  "stock": 50,
+  "categoria": "Calzado",
+  "tallas_disponibles": [25, 26, 27, 28]
+}

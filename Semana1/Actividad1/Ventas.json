@@ -1,0 +1,14 @@
+{
+  "_id": "V001",
+  "cliente_id": "C001",
+  "fecha": "2026-03-20",
+  "productos": [
+    {
+      "producto_id": "P001",
+      "cantidad": 1,
+      "precio_unitario": 1499.99
+    }
+  ],
+  "total": 1499.99,
+  "metodo_pago": "Tarjeta"
+}
