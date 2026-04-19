@@ -123,22 +123,20 @@ Entregable: [Actividad4-4.ipynb](../Actividades/Actividad4.4/Actividad4-4.ipynb)
 
 ## 3. Resumen de Aprendizaje
 
-*
-*
-*
+* Limpieza de datos y como cada una se puede adaparte de distinta manera y como los datos los podemos expresar de una manera distinta, sin perder nada
+* El saber como podemos manejar los valores nulos
+* Como es que la Media, Mediana y Moda juegan un papel crucial en nuestros datos y como nos podemos apoyar de estas herramientas
 
 ## 4. Dudas o Preguntas
 
-*
-*
-*
+* ¿Como podemos mejorar el relacionar la limpieza con nuestra manera de interpretar los datos?
 
 ## 5. Referencias
 
-*
-*
-*
+* https://scikit-learn.org/stable/common_pitfalls.html
+* https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/
+* https://www.jair.org/index.php/jair/article/view/10302
 
 ## 6. Actividad semanal
 
-Entregable: 
+Entregable: [Analisis.ipynb](../Actividades/Actividad3/Analisis.ipynb)
