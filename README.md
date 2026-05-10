@@ -9,5 +9,5 @@ Este repositorio contiene las actividades del curso de Ciencia de Datos.
 - [x] Semana 3: Python y Análisis Exploratorio
 - [x] Semana 4: Preparación de Datos
 - [x] Semana 5: Regresión Lineal Simple
-- [ ] Semana 6: Regresión Lineal Múltiple
-- [ ] Semana 7: Regresión Logística y Comunicación
+- [x] Semana 6: Regresión Lineal Múltiple
+- [x] Semana 7: Regresión Logística y Comunicación
